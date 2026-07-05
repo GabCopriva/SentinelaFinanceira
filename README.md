@@ -57,3 +57,17 @@ O painel foi desenhado seguindo as melhores práticas de UX/UI com um visual *Da
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/GabCopriva/sentinela-financeira.git](https://github.com/GabCopriva/sentinela-financeira.git)
+
+   Certifique-se de ter as bibliotecas necessárias instaladas:
+
+Bash
+pip install pandas openpyxl
+Execute o script de análise para gerar as tabelas tratadas em formato Excel:
+
+Bash
+python analise_sentinela.py
+Abra o arquivo .pbix no Power BI Desktop e atualize os dados apontando para o relatório gerado.
+
+📬 Contato
+Desenvolvido por [Gabriel Copriva de Souza Santos] - [https://www.linkedin.com/in/gabrielcopriva// contatogabrielcopriva@gmail.coml]
+

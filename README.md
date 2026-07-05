@@ -69,5 +69,5 @@ python analise_sentinela.py
 Abra o arquivo .pbix no Power BI Desktop e atualize os dados apontando para o relatório gerado.
 
 📬 Contato
-Desenvolvido por [Gabriel Copriva de Souza Santos] - [https://www.linkedin.com/in/gabrielcopriva// contatogabrielcopriva@gmail.coml]
+Desenvolvido por Gabriel Copriva de Souza Santos - https://www.linkedin.com/in/gabrielcopriva/ - contatogabrielcopriva@gmail.coml
 

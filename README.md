@@ -56,4 +56,4 @@ O painel foi desenhado seguindo as melhores práticas de UX/UI com um visual *Da
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/sentinela-financeira.git](https://github.com/seu-usuario/sentinela-financeira.git)
+   git clone [https://github.com/GabCopriva/sentinela-financeira.git](https://github.com/GabCopriva/sentinela-financeira.git)
